@@ -1,9 +1,21 @@
 .nav {
-  /* text-align: center; */
   font-family: helvetica;
   background-color: white;
   display: flex;
   align-items: center;
+}
+
+#bent-creek-logo {
+margin-left: 0;
+}
+
+.content {
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+u {
+  color: rgb(153, 135, 111);
 }
 
 .nav-links {
@@ -40,6 +52,8 @@ body {
   font-family:'Slabo 27px', serif;
   background-color: rgb(242, 242, 231);
   margin: 0;
+  line-height: 1.6;
+  font-size: 25px;
 }
 
 footer {
@@ -54,8 +68,12 @@ footer p {
   position: relative;
   top: 10px;
   left: 30px;
+
 }
 
-.birdhouse {
-  margin-left: 250px;
+img {
+  margin-left: px;
+  float: left;
+  padding-right: 50px;
+  padding-bottom: 30px;
 }
