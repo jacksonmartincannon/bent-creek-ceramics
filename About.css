@@ -14,6 +14,23 @@ margin-left: 0;
   margin-right: 15%;
 }
 
+h2 {
+  font-weight: lighter;
+}
+
+#background {
+  width: 100%;
+  height: 400px;
+  position: static;
+
+}
+
+.room-to-grow {
+  position: relative;
+  bottom: 300px;
+  color: white;
+}
+
 u {
   color: rgb(153, 135, 111);
 }
@@ -76,4 +93,11 @@ img {
   float: left;
   padding-right: 50px;
   padding-bottom: 30px;
+}
+
+.vl {
+  border-left: 3px solid rgb(153, 135, 111);
+  height: 120px;
+  float: left;
+  padding-right: 20px;
 }
