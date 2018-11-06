@@ -65,12 +65,12 @@ display: inline;
 object-fit: cover;
 }
 
-.image-text {
-  position: absolute;
+.image-text  {
   color: oldlace;
   bottom: 20px;
   background-color: rgb(42, 48, 37);
   padding-left: 20px;
   padding-right: 20px;
   font-size: 20px;
+  position: absolute;
 }
